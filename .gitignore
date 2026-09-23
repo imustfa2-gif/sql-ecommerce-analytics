@@ -1,0 +1,9 @@
+# Raw data is intentionally excluded from the GitHub repository.
+Dataset/*.csv
+
+# Local SQL Server and editor files
+*.bak
+*.mdf
+*.ldf
+.vs/
+.vscode/
